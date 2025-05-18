@@ -1,3 +1,5 @@
+<p align="left">
+	
 # 🛍️ Customer Satisfaction Prediction using Amazon Review Sentiment Analysis
 
 This project analyzes Amazon product reviews using Natural Language Processing (NLP) to predict **customer satisfaction**. By classifying user reviews as positive, negative, the system offers insights that can help businesses better understand their customer base and improve their offerings.
@@ -73,3 +75,4 @@ _Ex-Data Science Trainee, Celebal Technology_
 This project was developed as part of an internship, with a focus on using machine learning and NLP to solve real-world business problems related to customer satisfaction and sentiment trends.
 
 ---
+</p>
